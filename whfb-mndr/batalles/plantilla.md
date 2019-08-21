@@ -13,32 +13,32 @@
 ### Torns
 
 #### Torn 1 Rival:
-    * Moviment:
-        *
-        *
-    * Magia
-        *
-        *
-    * Dispar
-        *  
-        *
-    * CaC
-        *
-        *
+* Moviment:
+    *
+    *
+* Magia
+    *
+    *
+* Dispar
+    *  
+    *
+* CaC
+    *
+    *
 
 #### Torn 1 Propi:
-    * Moviment:
-        *
-        *
-    * Magia
-        *
-        *
-    * Dispar
-        *  
-        *
-    * CaC
-        *
-        *
+* Moviment:
+    *
+    *
+* Magia
+    *
+    *
+* Dispar
+    *  
+    *
+* CaC
+    *
+    *
 
 ### Resum de la partida:
 

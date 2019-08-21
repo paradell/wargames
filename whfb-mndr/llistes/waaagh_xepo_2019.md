@@ -5,16 +5,16 @@
 * 20 Agost 2019
 
 #### Comandante ####
-* ** Gorbad Garra'ierro [290 puntos]**
+* **Gorbad Garra'ierro [290 puntos]**
     * **Arma:** Morglor la Mutiladora. Arma de Mano. Siempre Ataca Primero. Anula TSA.
-    * **Armadura:** Armadura pesada*
+    * **Armadura:** Armadura pesada
     * **Montura**: Gnarla, Jabalí con F4
     * **Ez el Jefe**: Es General y Portaestandarte de Batalla. Pueden usar el Liderazgo del General a 45 cm. Si sufre alguna herida, el rango baja a 15cm.
 
 
 #### Héroe ####
 
-* ** Chamán Goblin [177 puntos]**
+* **Chamán Goblin [177 puntos]**
     * Nivel 2
     * Saber del Pequeño Waaagh
     * **Montura**: Karro de Lobos con Lobo Adicional.
@@ -22,9 +22,9 @@
     * **Equipo Mágico**
         * Pergamino de Dispersión.
 
-* ** Gran Jefe Orco Negro [110 puntos]**
+* **Gran Jefe Orco Negro [110 puntos]**
     * **Arma:** Arma de mano
-    * **Armadura:** Armadura pesada*
+    * **Armadura:** Armadura pesada
     * **Montura**: Jabalí
     * **Equipo Mágico y Virtudes**
         * Escudo encantado.
@@ -32,10 +32,10 @@
 
 
 #### Unidad básica ####
-* ** Snagla Grobspit y los Acechantez [109 puntos]**
+* **Snagla Grobspit y los Acechantez [109 puntos]**
     * 4 x Acehantez
 
-* ** Gritilla el Kazador [279 puntos]**
+* **Gritilla el Kazador [279 puntos]**
     * 8x Aulladorez
     * **Arma:** Arma de mano
 
@@ -69,7 +69,7 @@
 #### Unidad especial ####
 * **Karro de Lobos [63 puntos]**
 
-* ** Orcos Salvajes jinetes de Jabalí [266 puntos]**
+* **Orcos Salvajes jinetes de Jabalí [266 puntos]**
     * Jefe
     * Portaestandarte con el **Estandarte del Waaagh de Gorko** - +2 al M
     * Musico
@@ -79,9 +79,9 @@
     * **Arma:** Lanza, Arma de mano
 
 #### Unidad singular ####
-* ** Vagoneta Snotling [40 puntos]**
+* **Vagoneta Snotling [40 puntos]**
 
-* ** Vagoneta Snotling [40 puntos]**
+* **Vagoneta Snotling [40 puntos]**
 
 ### Total: [1998puntos] ###
 
