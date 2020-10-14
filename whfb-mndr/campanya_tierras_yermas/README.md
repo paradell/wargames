@@ -1,8 +1,13 @@
 # Campanya Tierras Yermas
 
+Es pot fer el seguiment en [aquesta web](http://orkete.wixsite.com/tierrasyermas)
+
 ## Trasfons de la Campanya
 
 Després de més de 1000 anys, la fortalesa flotant de Fozzrik aterrarà a les Terres Ermes i diferents excèrcits es preparen o bé per assaltar-la i saquejar-la, bé per destruïr-la i que ningú en pugui fer ús dels seus poders, o bé per fer servir els tresors per a fer el Bé.
+
+## Torns de la Campanya
+[Torn 1](./torn_1.md)
 
 ## Trasfons del excèrcit
 
