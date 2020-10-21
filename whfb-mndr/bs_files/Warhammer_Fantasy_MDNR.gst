@@ -57,6 +57,7 @@
     <categoryEntry id="184a-30ec-bf7c-b603" name="Unidad singular" hidden="false"/>
     <categoryEntry id="c647-4209-4e6c-206a" name="Héroe" hidden="false"/>
     <categoryEntry id="9769-7233-6405-675e" name="Comandante" hidden="false"/>
+    <categoryEntry id="0cfc-02a1-ad30-fb33" name="Unidad básica (no cuenta para el mínimo)" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="19ec-029f-2b68-ae92" name="0-1999" hidden="false">
@@ -86,6 +87,7 @@
             <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="df7c-0651-9005-6ffe" type="max"/>
           </constraints>
         </categoryLink>
+        <categoryLink id="41ba-b109-df5e-0f96" name="Unidad básica (no cuenta para el mínimo)" hidden="false" targetId="0cfc-02a1-ad30-fb33" primary="false"/>
       </categoryLinks>
     </forceEntry>
     <forceEntry id="c8d8-6feb-de16-2f2f" name="2000-2999" hidden="false">
@@ -96,6 +98,13 @@
           </constraints>
         </categoryLink>
         <categoryLink id="2730-810b-6c6e-97c0" name="Héroe" hidden="false" targetId="c647-4209-4e6c-206a" primary="false">
+          <modifiers>
+            <modifier type="decrement" field="b110-ba6e-981b-ccc3" value="1.0">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="9769-7233-6405-675e" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
           <constraints>
             <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="b110-ba6e-981b-ccc3" type="max"/>
           </constraints>
@@ -115,6 +124,7 @@
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="3603-a1aa-001c-1282" type="max"/>
           </constraints>
         </categoryLink>
+        <categoryLink id="2e4f-c50f-b62c-9852" name="Unidad básica (no cuenta para el mínimo)" hidden="false" targetId="0cfc-02a1-ad30-fb33" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
